@@ -2,5 +2,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>git</groupId>
   <artifactId>git-test</artifactId>
+<<<<<<< HEAD
   <version>1-SNAPSHOT</version>
+=======
+  <version>21-SNAPSHOT</version>
+>>>>>>> branch 'master' of git@github.com:rosol88/git-test.git
 </project>
